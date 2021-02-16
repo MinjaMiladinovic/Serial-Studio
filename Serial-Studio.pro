@@ -157,3 +157,5 @@ TRANSLATIONS += \
     assets/translations/es.ts \
     assets/translations/zh.ts \
     assets/translations/de.ts
+    
+JsonGenerator.cpp
